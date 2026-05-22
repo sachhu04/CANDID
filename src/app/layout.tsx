@@ -16,6 +16,10 @@ export const metadata: Metadata = {
     description: "Honest resume and job-description compatibility analysis with transparent scoring.",
     type: "website",
   },
+  icons: {
+    icon: "/icon.svg",
+    apple: "/icon.svg",
+  },
 };
 
 export default function RootLayout({
